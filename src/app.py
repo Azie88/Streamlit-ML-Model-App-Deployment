@@ -1,4 +1,3 @@
 import streamlit as st
 
-st.write("""
-#Store sales prediction""")
+st.title("Store sales prediction App")
