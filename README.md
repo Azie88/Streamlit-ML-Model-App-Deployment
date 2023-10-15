@@ -45,10 +45,10 @@ Ideally, it should open your browser with the app in a new tab, if it doesn't, t
         <th> Gradio App </th>
     </tr>
     <tr>
-        <td><img src="screenshots\Screenshot 1.png"/></td>
+        <td><img src="screenshots\screenshot 1.png"/></td>
     </tr>
     <tr>
-        <td><img src="screenshots\Screenshot 2.png"/></td>
+        <td><img src="screenshots\screenshot 2.png"/></td>
     </tr>
 </table>
 
