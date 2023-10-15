@@ -42,7 +42,7 @@ Ideally, it should open your browser with the app in a new tab, if it doesn't, t
 
 <table>
     <tr>
-        <th> Gradio App </th>
+        <th> Streamlit App </th>
     </tr>
     <tr>
         <td><img src="screenshots\screenshot 1.png"/></td>
