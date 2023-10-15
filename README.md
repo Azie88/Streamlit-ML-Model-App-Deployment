@@ -38,16 +38,17 @@ Ideally, it should open your browser with the app in a new tab, if it doesn't, t
 
       http://10.13.8.134:8501
 
-## Screenshots
+## Screenshots 🖼️
 
 <table>
     <tr>
-        <th> Streamlit Retail Prediction App </th>
-        <th> App Interface with predictions </th>
+        <th> Gradio App </th>
     </tr>
     <tr>
-        <td><img src= "screenshots\screenshot 1.png" /></td>
-        <td><img src= "screenshots\screenshot 2.png" /></td>
+        <td><img src="screenshots\Screenshot 1.png"/></td>
+    </tr>
+    <tr>
+        <td><img src="screenshots\Screenshot 2.png"/></td>
     </tr>
 </table>
 
